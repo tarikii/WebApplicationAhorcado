@@ -1,0 +1,29 @@
+﻿.box-class {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.letter-button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.letter-button:hover {
+    background-color: #ccc;
+}
+
+.attempts-label {
+    font-size: 35px;
+    font-weight: bold;
+}
